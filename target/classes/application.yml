@@ -1,0 +1,5 @@
+amazonProperties:
+  endpointUrl: https://hiashouse.sfo2.digitaloceanspaces.com
+  accessKey: KTJXPTSHUKT53423NKO2
+  secretKey: EfN596HGdVJ6oYgVuOkMtJSGNN9/A+SE+0p4LRI/pdk
+  bucketName: hiashouse
